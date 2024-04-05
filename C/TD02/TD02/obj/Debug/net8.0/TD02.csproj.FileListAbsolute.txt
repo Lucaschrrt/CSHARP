@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\bin\Debug\net8.0\TD02.exe
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\bin\Debug\net8.0\TD02.deps.json
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\bin\Debug\net8.0\TD02.runtimeconfig.json
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\bin\Debug\net8.0\TD02.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\bin\Debug\net8.0\TD02.pdb
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\TD02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\TD02.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\TD02.AssemblyInfo.cs
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\TD02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\TD02.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\refint\TD02.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\TD02.pdb
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\TD02.genruntimeconfig.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD02\TD02\obj\Debug\net8.0\ref\TD02.dll

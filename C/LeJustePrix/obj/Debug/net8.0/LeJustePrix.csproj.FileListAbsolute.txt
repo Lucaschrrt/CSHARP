@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\LeJustePrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\LeJustePrix.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\LeJustePrix.AssemblyInfo.cs
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\LeJustePrix.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\bin\Debug\net8.0\LeJustePrix.exe
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\bin\Debug\net8.0\LeJustePrix.deps.json
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\bin\Debug\net8.0\LeJustePrix.runtimeconfig.json
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\bin\Debug\net8.0\LeJustePrix.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\bin\Debug\net8.0\LeJustePrix.pdb
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\LeJustePrix.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\refint\LeJustePrix.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\LeJustePrix.pdb
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\LeJustePrix.genruntimeconfig.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\LeJustePrix\obj\Debug\net8.0\ref\LeJustePrix.dll

@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\bin\Debug\net8.0\TD01.exe
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\bin\Debug\net8.0\TD01.deps.json
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\bin\Debug\net8.0\TD01.runtimeconfig.json
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\bin\Debug\net8.0\TD01.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\bin\Debug\net8.0\TD01.pdb
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\TD01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\TD01.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\TD01.AssemblyInfo.cs
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\TD01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\TD01.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\refint\TD01.dll
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\TD01.pdb
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\TD01.genruntimeconfig.cache
+C:\Users\DELL\Documents\Lucas\ISITECH\C\TD01\TD01\obj\Debug\net8.0\ref\TD01.dll
